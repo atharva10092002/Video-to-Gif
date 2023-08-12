@@ -2,7 +2,7 @@
 This Python script uses the MoviePy library to convert a video (video.mp4) into a GIF (mygif.gif) with a specified frame rate (fps).
 
 ## Prerequisites
-### Install Moviepy: (bash command given below)
+Install Moviepy: (bash command given below)
 pip install moviepy
 
 ## Making Your Own Gif
